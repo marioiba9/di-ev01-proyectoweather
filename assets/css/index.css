@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Londrina+Solid&display=swap");
+h1 {
+  font-family: "Londrina Solid", cursive; }
+
+body {
+  color: brown;
+  background-color: #adc9ee; }
+
+#todo {
+  background-color: #817f81; }
+
+.card {
+  background-color: brown;
+  color: white;
+  height: auto;
+  margin-left: 20%;
+  margin-right: 20%;
+  margin-top: 20%;
+  margin-bottom: 20%; }
+
+/*# sourceMappingURL=index.css.map */
